@@ -54,7 +54,7 @@ This document outlines best practices and coding standards for developing applic
   ├── tests/
   │   ├── __init__.py
   │   ├── test_main_window.py # Unit tests for main window
-  ├── requirements.txt    # Project dependencies
+  ├── pyproject.toml      # Project properties, dependencies and rules
   ├── README.md           # Project documentation
   ├── .gitignore          # Git ignore file
   
